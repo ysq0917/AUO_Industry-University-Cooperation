@@ -3,7 +3,11 @@
 
 <br>
 pytorch 
+</br>
+<br>
 joint training for predict defect data
+</br>
+<br>
 use Resnet model
 </br>
 
