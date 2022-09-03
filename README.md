@@ -16,7 +16,7 @@ joint training for predict defect data
 ![image](https://github.com/ysq0917/AUO_Industry-University-Cooperation/blob/master/all224.jpg)
 ![image](https://github.com/ysq0917/AUO_Industry-University-Cooperation/blob/master/all512.jpg)
 ![image](https://github.com/ysq0917/AUO_Industry-University-Cooperation/blob/master/allbalance512.jpg)
-![image](https://github.com/ysq0917/AUO_Industry-University-Cooperation/blob/master/allbalance224.jpg)
+![image](https://github.com/ysq0917/AUO_Industry-University-Cooperation/blob/master/allbalanced224.jpg)
 
 </br>
 <br>
