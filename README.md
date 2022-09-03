@@ -6,14 +6,22 @@
 資料增量及模型建立和訓練
 pytorch 語言 
 </br>
-<br>
+
 joint training for predict defect data
-<br>預測34個類別的瑕疵資料</br>
+<br>
+預測34個類別的瑕疵資料,使用confusion matrix顯示各類別預測結果，訓練300個epoch。
+</br>
+<br>
+
+![image](https://github.com/ysq0917/AUO_Industry-University-Cooperation/blob/master/all224.jpg)
+![image](https://github.com/ysq0917/AUO_Industry-University-Cooperation/blob/master/all512.jpg)
+![image](https://github.com/ysq0917/AUO_Industry-University-Cooperation/blob/master/allbalance512.jpg)
+![image](https://github.com/ysq0917/AUO_Industry-University-Cooperation/blob/master/allbalance224.jpg)
+
 </br>
 <br>
 use Resnet model</br>
 <br>用ResNet模型，input size為224*224與512*512的預測結果</br>
-
 
 ## master
 <br>
